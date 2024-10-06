@@ -1,7 +1,10 @@
-![MasterHead](https://getwallpapers.com/wallpaper/full/2/e/8/358759.jpg)
+![MasterHead](https://github.com/user-attachments/assets/6c5d6671-3435-4dac-b03e-263aa3406622)
+
+
+
 <h1 align="center">Hi 👋, I'm Meera P V</h1>
 <h3 align="center">A passionate Machine learning Engineer from India</h3>
-<img align ="right" alt="Coding"  width="400" src="https://wowcaption.com/coding.jpg">
+<img align ="right" alt="Coding"  width="400" src="https://img.freepik.com/premium-vector/girl-coding-with-laptop-illustration_418302-2384.jpg?w=2000">
 
 - 📝 I regularly write articles on [https://medium.com/@meerapadmanabhan125](https://medium.com/@meerapadmanabhan125)
 
